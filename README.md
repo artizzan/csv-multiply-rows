@@ -13,6 +13,6 @@ This script reads a CSV file, multiplies its rows by introducing a new column wi
 
 3. Modify JavaScript file `index.js` to define input variables.
 
-4. Run the script.
+4. Run the script with command `node app.js`.
 
 5. The new CSV file (`new_input.csv`) will be created with the multiplied rows.
