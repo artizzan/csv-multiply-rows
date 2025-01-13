@@ -1,0 +1,14 @@
+{
+  "name": "csv-multiply-rows",
+  "version": "1.0.0",
+  "description": "A script to multiply rows in a CSV file by adding new columns with specified values.",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js"
+  },
+  "dependencies": {
+    "csv-parser": "^3.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}

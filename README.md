@@ -6,7 +6,7 @@ This script reads a CSV file, multiplies its rows by introducing a new column wi
 
 1. Install the required dependencies:
    ```
-   npm install csv-parser
+   npm install
    ```
 
 2. Create a CSV file (e.g., `input.csv`) with the data you want to process.
